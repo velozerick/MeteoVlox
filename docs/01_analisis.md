@@ -29,3 +29,14 @@ Además, este proyecto demuestra que con componentes accesibles, documentación 
 - El sistema deberá actualizar las lecturas a intervalos definidos por el usuario (por ejemplo, cada segundo).
 
 
+## Requisitos no funcionales
+
+- El sistema deberá estar disponible de forma continua, operando las 24 horas del día, los 7 días de la semana (24/7).
+- El sistema deberá ser compatible con sistemas operativos Linux (Raspberry Pi OS) y adaptable para otras plataformas como Windows o móviles en etapas futuras.
+- El sistema deberá permitir escalabilidad mediante una arquitectura modular que facilite la integración de sensores adicionales.
+- El sistema deberá mantenerse dentro de un rango de costo accesible, utilizando sensores y componentes de bajo costo, así como partes impresas en 3D.
+- El código del sistema deberá estar estructurado y documentado para facilitar su mantenimiento y comprensión.
+- El sistema deberá estar licenciado bajo los términos de la licencia MIT.
+- El sistema deberá funcionar de manera local, sin requerir conexión permanente a internet.
+
+
